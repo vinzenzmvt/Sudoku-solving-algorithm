@@ -9,6 +9,7 @@ Created on Sat Apr 18 14:25:06 2020
 import numpy as np
 import time
 
+#This is a change
 
 # --------------------- Functions ----------------------
 def initalize_solver():
