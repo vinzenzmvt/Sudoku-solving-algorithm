@@ -473,7 +473,7 @@ grid_input = np.array([
     [0, 0, 9, 0, 0, 0, 0, 7, 0]])
 
 # finnish guy claims to have created hardest sudoku:
-grid_input = np.array([
+# grid_input = np.array([
     [8, 0, 0, 0, 0, 0, 0, 0, 0],
     [0, 0, 3, 6, 0, 0, 0, 0, 0],
     [0, 7, 0, 0, 9, 0, 2, 0, 0],
